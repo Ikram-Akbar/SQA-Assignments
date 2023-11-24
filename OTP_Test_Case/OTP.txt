@@ -1,0 +1,21 @@
+
+OTP : One time Password 
+-----------------------------
+1	Verify that the user is able to receive OTP on a registered mobile number or email address.
+2	Verify that OTP code length
+3	Verify that the OTP code is valid for a specific time
+4	Verify that OTP should be valid for only one time.
+5	Verify that the user is able to proceed with entering valid OTP
+6	Verify that the user is able to proceed with entering invalid OTP
+7	Verify that the user is able to proceed after expiring OTP time
+8	Verify that the user is able to resend OTP requests or not
+9	Verify that the user is able to enter old OTP or not
+10	Verify that application or transactions are blocked or not if the user enters multiple time invalid OTPs
+11	Verify that OTP is case sensitive or not
+12	Verify that OTP is only alphabetic characters or not
+13	Verify that OTP is only numeric characters or not
+14	Verify that limit of the OTP for validation
+15	Verify that the user is able to proceed without entering OTP
+16	Verify that validation error message should be displayed for the left OTP field
+17	Verify that the user is able to receive resend OTPs or not
+18	Verify that OTP expires after some time or not.
